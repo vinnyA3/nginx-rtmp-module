@@ -249,6 +249,7 @@ rtmp_auto_push directive.
                 hls on;
                 hls_path /tmp/app;
                 hls_fragment 5s;
+                hls_datetime system;
             }
 
         }
